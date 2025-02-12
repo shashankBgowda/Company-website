@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car_Mitra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="background">
+    <div id="heading">
+        <h1 id="compname">Car_Mitra</h1>
+        <img alt="logo" id="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFQtfJ2W0pkmVo8JMcFE_iL4iwHetof5MaGQ&usqp=CAU">
+    </div><br>
+    <div id="sechead">
+        <div id="headcont">
+                 
+                <h1 id="home">Home</h1> 
+                <h1 id="NEW_ARRIVALS">NEW_ARRIVALS</h1>
+                <h1 id="USED_CARS">USED_CARS</h1>
+                <h1 id="CARRIER">ACCESSORY</h1>
+                <h1 id="HELP">CARRIER</h1>
+        </div>
+    </div><br>
+    <hr>
+    <h1 id="quote">In the   world of automobiles, trust is our most valued accessory..!</h1><hr><br>
+    <h1 id="vision"><b>: VISION : </b></h1><br><br>
+    <div id="fircont">
+        <img alt="image"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfAVSXbhRKuRZMZ_8MViywjKJeDeRfRZ47Fg&usqp=CAU">
+        <p id="visdat">
+           To be the unparalleled leader in the pre-owned automotive industry, 
+           renowned for providing discerning customers with a trusted, transparent,
+           and premium car-buying experience. We aspire to redefine the standards
+           of excellence by consistently delivering meticulously inspected, top-tier 
+           vehicles that not only meet but exceed our customers' expectations. Our
+           vision is to foster lasting relationships built on trust, integrity, and 
+           a passion for quality, making us the destination of choice for those seeking 
+           unmatched value in the world of used cars. By incorporating these elements
+            into your vision statement, you communicate a comprehensive commitment to
+            quality, trust, and customer satisfaction, reinforcing the values that set 
+            your used car company apart in the market.  
+        </p>
+    </div><br><br>
+    <hr>
+    <h1 id="mission"><center><b>: MISSION :</b></center></h1><br><hr><br>
+
+   <div id="seccont">
+        <div id="line"></div>
+        <p id="miscont">
+            Our mission is to redefine the used car buying experience by placing trust at 
+            the core of every interaction. We are dedicated to providing our customers with 
+            a seamless journey, offering a curated selection of high-quality pre-owned vehicles. 
+            With transparency, integrity, and a commitment to customer satisfaction, we strive 
+            to be the trusted partner that empowers individuals to make confident and informed 
+            decisions about their automotive needs. Our mission is not just about selling cars; 
+            it's about earning your trust, one satisfied customer at a time. Transparency and 
+            integrity are the cornerstones of our approach.  
+        </p>
+        <img id="misimg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtEfPq65SIdwE6EEAPjhkqAtiLh-utUxFP1t2dyPdEbV5PL7n3Rq701t1gAlCkhjOtMXU&usqp=CAU">
+   </div>
+   <div id="offers">
+        <div class="ofers1">
+            <h1 id="of1head">SUV</h1>
+         </div>
+        <div class="ofers2">
+            <h1 id="of1head">Sedan</h1>
+        </div>
+        <div class="ofers3">
+            <h1 id="of3head">HATCHBACK</h1>
+        </div>
+    </div><br><br>
+   <center>
+   <div id="appintment">
+            <h1 id="apponthead">To Book an Appointment</h1><br>
+            <button id="login">  LogIn  </button><br><br><br>
+            <button id="signin">  SignIn  </button>
+            
+ </div><br>
+   </center>
+   <marquee id="moving"> -----Shashank------</marquee>
+   
+    <div id="footer">
+        <div id="copy">
+        <h1>About CAR_MYTRA</h1>
+        <h1>Contact us</h1>
+        <h1>Others</h1>  
+        </div>
+        <center><p>&copy; 2023 Your Company Name. All rights reserved.</p></center>
+    </div><br>
+    
+    
+    
+</body>
+</html>

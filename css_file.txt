@@ -1,0 +1,282 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+#background{
+background-image: url("https://wallpapers.com/images/hd/grayscale-vintage-car-engine-cwlzum26zh5296br.jpg");
+}
+#heading{
+    background-color: rgba(67, 74, 74, 0.621);
+    height:70px;
+    width: 0 auto;
+}
+#compname{
+    text-align: center;
+    transition: transform 0.8s ease-in-out;
+    font-weight: 200px;
+    font-size: 60px;
+    color:aqua;
+}
+#compname:hover{
+    transform: scale(1.5);
+    color:rgb(47, 159, 159);
+}
+#logo{
+    width:100px;
+    height:50px;
+}
+#sechead{
+    width:0 auto;
+    height:60px;
+    background-color:dimgray;
+}
+#headcont{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#home{
+      transition: transform 0.3s;
+      color:silver;
+}
+#home:hover{
+     transform: rotate(30deg) scale(0.3);
+     color:blue;
+}
+
+#NEW_ARRIVALS{
+     transition: transform 0.3s;
+           color:silver;
+}
+#NEW_ARRIVALS:hover{
+    transform: rotate(30deg) scale(0.8);
+    color:blue;
+}
+#USED_CARS{
+    transition: transform 0.3s;
+    color:silver;
+}
+#USED_CARS:hover{
+    transform: rotate(30deg) scale(0.8);
+    color:blue;
+}
+#CARRIER{
+        transition: transform 0.3s;
+        color:silver;
+}
+#CARRIER:hover{
+        transform: rotate(30deg) scale(0.8);
+        color:blue;
+}
+#HELP{
+        transition: transform 0.3s ease-in-out;
+        color:silver;
+}
+#HELP:hover{
+    transform: scale(1.5);
+    color:blue;
+}
+#quote{
+    padding:10px;
+    color:rgb(63, 138, 138);
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 40px;
+}
+#fircont{
+    width: 0 auto;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    padding:2%;
+    justify-content: space-evenly;
+    transition: transform 2.4s ease-in-out;
+}
+#fircont:hover{
+    transform: scale(1.3);
+}
+#fircont-img{
+    width:200px;
+    height:100px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+#visdat{
+    font-size: 20px;
+    color: rgb(255, 0, 0);
+    justify-content: center;
+    float: right;
+    font-size: 30px;
+}
+#vision{
+    color:green;
+    text-align:center;
+    font-weight: 300px;
+    text-decoration: underline;
+}
+#mission{
+    color:green;
+    margin-bottom: 2%;
+    text-align: center;
+    text-decoration: overline;
+}
+#line{
+    height: 250px;
+    margin: 50px 100px 200px 150px;
+    width:60px;
+    background-color: red;
+    box-shadow: 10px 0px 100px 100px rgb(96, 9, 9);
+}
+#seccont{
+    display: flex;
+    justify-content: space-evenly;
+    transition: transform 3.4s ease-in-out;
+}
+#seccont:hover{
+    transform: scale(1.3);
+}
+#miscont{
+     font-size: 20px;
+    color: red;
+    justify-content: center;
+    font-size: 30px;
+}
+#misimg{
+    width:7000px;
+    height:400px;
+}
+#moving{
+    color: salmon;
+    text-decoration: wavy;
+    font-size: 20px;
+}
+
+
+#offers{
+    background-color: rgba(81, 158, 158, 0.337);
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space:nowrap;
+    justify-content: space-evenly;
+    overflow: auto;
+    display: flex;
+    backdrop-filter: blur(10px);
+}
+.ofers1{
+    height:300px;
+    width:400px;
+    background-image: url("https://static.toiimg.com/photo/97648507.cms");
+    margin: 10px;
+    display: block;
+    display: inline-flex;
+    padding: 10px;
+    backdrop-filter: blur(10px);
+    transition: transform 1.0s ease-in-out;
+}
+.ofers1:hover{
+    transform: scale(1.3);
+}
+#of1head{
+    color:darkgray;
+    font-size: 35px;
+    padding: 0px 120px ;
+    text-decoration: underline;
+}
+
+.ofers2{
+    height:200px;
+    width:400px;
+    background-image: url("https://images.drive.com.au/driveau/image/private/c_fill,f_auto,g_auto,h_252,q_auto:good,w_448/v1/ca-s3/2014/03/9_Infiniti_Q50_Eau_Rouge_Front_Three_Quarter_LoRes-e1393935718138-625x317.jpg");
+    margin: 10px;
+    display: inline-flex;
+    
+    transition: transform 1.0s ease-in-out;
+}
+.ofers2:hover{
+    transform: scale(1.3);  
+}
+.ofers3{
+    height:300px;
+    width:300px;
+    background-image: url("https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1689153629/autoexpress/2023/07/Best%20hot%20hatchbacks%20-%20Jul%202023%20header.jpg");
+    margin: 10px;
+    display: inline-flex;
+    transition: transform 1.0s ease-in-out;
+}
+.ofers3:hover{
+    transform: scale(1.3);
+}
+#of3head{
+    color:darkgray;
+    font-size: 35px;
+    padding: 0px 50px ;
+    text-decoration: underline;
+}
+
+#appintment{
+    width:400px;
+    height:300px;
+    border: 2px solid rgb(204, 88, 88);
+    border-radius: 30px;
+    border-width: 3px;
+    padding: 10px 20px;
+    background-color: rgba(43, 64, 127, 0.478);
+    box-shadow: 10px 0px 100px 100px rgb(168, 56, 56);
+}
+#login{
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    background-color: darkgray;
+    border: none;
+    font-style: italic;
+    text-decoration: line-through;
+}
+#apponthead{
+    color:rgb(125, 69, 69);
+    text-align: center;
+    font-style: bold solid;
+    text-decoration: underline;
+}
+#signin{
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    background-color: darkgray;
+    border: none;
+    font-style: oblique;
+    text-decoration: line-through;
+}
+
+#moving{
+    font-size: 30px;
+    font-weight: 20px;
+    font-style: italic;
+    font-variant: small-caps;
+    color:tomato;
+}
+
+#footer{
+    width: auto;
+    height: 250px;
+    padding:2%;
+    background-image: url("https://img.freepik.com/premium-vector/concept-sport-car-silhouette-with-reflection_73458-232.jpg");
+    color:cadetblue
+   
+}
+#copy{
+    display: flex;
+    padding:2%;
+    justify-content: space-evenly;
+    color: cadetblue;
+}
+#footimg{
+    width:auto;
+    height:240px;
+    padding:20px;
+    filter: blur(3px);
+}
+
+
+
